@@ -40,8 +40,46 @@
   }
 .development-content{
     text-align: center;
+    margin: 24px 0px;
+    position: static;
+
 }
+.another{
+    text-align: left;
     
+}
+.topright {
+    position:;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+    justify-content:center;
+}
+.second-one{
+   text-align: left;
+
+}
+.other-position{
+    text-align: left;
+}
+.button-two{
+    justify-content: space-between;
+}
+.third-one{
+
+}
+.next-move{
+    background: rgba(13, 19, 33, 0.02);
+}
+.new-imags-add{
+    text-align: center;
+    background-color:whitesmoke
+}
+.from-you-pic{
+    justify-content: center;
+
+}
+
 
   
   
